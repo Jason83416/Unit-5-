@@ -63,4 +63,3 @@ circle(ballx, bally, balld);
 
 void gameClicks() {
 }
-
