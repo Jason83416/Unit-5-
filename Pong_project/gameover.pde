@@ -1,7 +1,0 @@
-void gameover() {
-  
-}
-
-void gameoverClicks() {
-  
-}
